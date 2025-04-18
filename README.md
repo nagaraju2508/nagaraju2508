@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagaraju2508
+- 👋 Hi, I’m @nagaraj
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python project 
